@@ -253,7 +253,6 @@ input:-webkit-autofill:active {
 .bottom-fade {
   height: 128px;
   margin-top: -128px;
-  background-image: url("./assets/fade.png");
   transform: rotate(360deg);
   pointer-events: none;
 }
